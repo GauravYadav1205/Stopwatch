@@ -1,0 +1,50 @@
+body {
+    background-color: #2E133A;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+.contanier{
+    color:#d7dfe4;   
+}
+.rectangle{
+   box-sizing: content-box;
+}
+#text{
+    font-size: 30px;
+    text-align: center;
+    
+}
+.digit{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150px;
+    font-weight: bold;
+}
+
+#btn-contanier{
+    text-align: center;
+    margin-top: 30px;
+}
+.button{
+    padding: 7px 25px;
+    font-size: 20px;
+    margin: 0px 15px ;
+    color:white;
+
+}
+#start{
+background-color: #fc0fc0;
+border-radius: 20px;
+
+
+}
+#stop{
+background-color: #fc0fc0;
+border-radius: 20px;
+}
+
+#reset{
+background-color: #fc0fc0;
+border-radius: 20px;
+}
